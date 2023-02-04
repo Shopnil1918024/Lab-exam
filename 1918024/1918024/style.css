@@ -1,0 +1,77 @@
+*{
+    margin:2px;
+    padding:0;
+    box-sizing:border-box;}
+    body{  width:100%;
+         background-image:url(./Tulips.jpg );
+        height:100vh;
+    
+        color:black;
+background-size: cover;
+  background-repeat: no-repeat;
+    }
+ 
+.first{
+     margin-left:0px;
+     margin-right:0 px;
+    width: 20%;
+    height:16vh;
+    color:black;
+    display: flex;
+   justify-content:space-around;
+    align-items:center;
+    text-align:left;
+}.link0{ text-align:center;
+    margin-left:1000px;
+    margin-right:300px;
+}
+.link1{margin-left:90px;
+    margin-right:150px;
+    text-align:center;
+} 
+.link2{margin-left:290px;
+  margin-right: 0px;
+    text-align:right;
+}.link2:hover{
+    background-color: gray;
+}
+    .menu-bar{
+        margin-left:100px;
+        margin-right:200px;
+        background-color: aqua;
+        ;
+        margin-left:0 px;
+        word-spacing:100px;
+
+    }
+    .menu-bar a{
+    
+        color:white;
+        font-family:'Times New Roman', Times, serif;
+        font-weight: bold;
+        letter-spacing: 2 px;
+        word-spacing:2px;
+    text-decoration: none; 
+    }
+    .second{margin-left:0 px;
+        margin-top:0px;
+        background-color: blueviolet;
+        letter-spacing:1 px;
+        text-align: center;
+    }
+    .second a{
+        
+        color:black;
+        text-decoration:none;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+    }
+    .ONE{
+        margin-top:180PX;
+        text-align: center;
+    }
+    .two{
+        margin:10PX;
+        text-align: center;
+    }
+    
